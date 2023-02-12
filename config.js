@@ -51,7 +51,7 @@ var config = {
         "That is one of my favorite sights",
         "Since we are adults",
         "We have a lot to deal with",
-        "I have been very busy since last year",
+        // "I have been very busy since last year",
         "This year will continue",
         "But I think it is good",
         "It means we're making progress",
