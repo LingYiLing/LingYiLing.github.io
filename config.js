@@ -3,8 +3,11 @@ var config = {
     // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
-        "For Gaby",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
-        "Today is...",
+        "Hi Gaby（⌒▽⌒）",
+        "Long Time No See",
+        "How are you recently",
+        "I hope you doing well",
+        "✿ヽ(°▽°)ノ✿",
         "as beautiful as other days",
         "but you realize",
         "another year has gone",
@@ -72,9 +75,9 @@ var config = {
         play: "Play Music",
         bannar_coming: "Let's Decorate",
         balloons_flying: "Fly With Ballons",
-        cake_fadein: "Most Delicious Cake Ever",
+        cake_fadein: "Delicious Cake",
         light_candle: "Light Candle",
         wish_message: "Happy Birthday",
-        story: "A MESSAGE FOR YOU",
+        story: "A MESSAGE FOR Gaby",
     }
 };
